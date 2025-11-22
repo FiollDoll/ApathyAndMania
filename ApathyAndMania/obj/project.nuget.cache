@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJg2ihzN7g4=",
+  "success": true,
+  "projectFilePath": "/mnt/tempProjects/ApathyAndMania/ApathyAndMania/ApathyAndMania.csproj",
+  "expectedPackageFiles": [
+    "/home/faceless/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

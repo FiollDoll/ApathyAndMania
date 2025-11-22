@@ -1,0 +1,14 @@
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.AssemblyInfoInputs.cache
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.AssemblyInfo.cs
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.csproj.CoreCompileInputs.cache
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/bin/Debug/net9.0/ApathyAndMania
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/bin/Debug/net9.0/ApathyAndMania.deps.json
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/bin/Debug/net9.0/ApathyAndMania.runtimeconfig.json
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/bin/Debug/net9.0/ApathyAndMania.dll
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/bin/Debug/net9.0/ApathyAndMania.pdb
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.dll
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/refint/ApathyAndMania.dll
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.pdb
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.genruntimeconfig.cache
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ref/ApathyAndMania.dll
