@@ -7,6 +7,10 @@ public static class JsonManager
 {
     public static async Task SaveDay(Day day)
     {
+        DirectoryInfo dirInfo = new DirectoryInfo("Days/");
+        if (!dirInfo.Exists)
+            dirInfo.Create();
+        
         using (FileStream fs = new FileStream("Days/" + day.Date+ ".json", FileMode.Create))
         {
             await JsonSerializer.SerializeAsync<Day>(fs, day);

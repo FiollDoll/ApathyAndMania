@@ -12,3 +12,4 @@
 /mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.pdb
 /mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.genruntimeconfig.cache
 /mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ref/ApathyAndMania.dll
+/mnt/tempProjects/ApathyAndMania/ApathyAndMania/obj/Debug/net9.0/ApathyAndMania.sourcelink.json

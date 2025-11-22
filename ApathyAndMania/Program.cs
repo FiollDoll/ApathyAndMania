@@ -136,7 +136,6 @@ namespace ApathyAndMania
                 }
                 catch
                 {
-                    // Пропускаем битые файлы
                 }
             }
 
@@ -232,7 +231,7 @@ namespace ApathyAndMania
             Console.WriteLine(leftNum + new string(' ', spacing / 2) + totalValue + new string(' ', spacing / 2) +
                               rightNum);
             Console.WriteLine(slider.ToString());
-
+            Console.WriteLine(new string(' ', spacing / 2) + totalValue + new string(' ', spacing / 2));
             int labelSpacing = sliderLength - "Апатия".Length - "Мания".Length;
             Console.WriteLine($"Апатия{new string(' ', labelSpacing)}Мания");
         }
